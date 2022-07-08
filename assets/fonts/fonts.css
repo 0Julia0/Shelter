@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Arial';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../fonts/Aria-Regular.woff2") format("woff2"),
+         url("../fonts/Aria-Regular.woff") format("woff");
+  }
+
+  @font-face {
+     font-family: 'Georgia';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("../fonts/Georgia-Regular.woff2") format("woff2"),
+          url("../fonts/Georgia-Regular.woff") format("woff");
+   }
+
+   @font-face {
+     font-family: 'Georgia-Italic';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("../fonts/Georgia-Italic.woff2") format("woff2"),
+          url("../fonts/Georgia-Italic.woff") format("woff");
+   }
